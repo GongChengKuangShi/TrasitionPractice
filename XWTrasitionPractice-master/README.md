@@ -1,5 +1,4 @@
-# TrasitionPractice
-弹性截图动画，Transition3D转场翻页动画，小圆扩散成整页动画
+# XWTrasitionPractice
 四个自定义转场动画的demo
 ####DEMO ONE：一个弹性的present动画，支持手势present和dismiss
 ![弹性pop](http://ww3.sinaimg.cn/mw690/5ededce5gw1eyfbyf5jnbg208u0g9npd.gif)
